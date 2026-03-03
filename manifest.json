@@ -1,0 +1,20 @@
+{
+  "name": "CAMS-S",
+  "short_name": "CAMS-S",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "images/my-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/my-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
